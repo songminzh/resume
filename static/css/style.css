@@ -276,6 +276,9 @@ ul li{
     cursor: pointer;
     
 }
+.experience-list li a{
+text-decoration:none;
+}
 
  .stack-list .item-remove {
     position: absolute;
