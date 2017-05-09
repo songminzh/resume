@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+# 个人简介
 
-You can use the [editor on GitHub](https://github.com/cos6meteors/murphy.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 郑敏｜男｜1991年生
 
-### Markdown
+* 本科学历，安徽科技学院电子信息工程专业，2015年毕业，CET4
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 手机号码：15551006656
 
-```markdown
-Syntax highlighted code block
+* EMail:murphyzh06@gmail.com
 
-# Header 1
-## Header 2
-### Header 3
+* 个人博客：[Github](https://github.com/cos6meteor)、[简书](http://www.jianshu.com/u/5d6941ea3713)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# 技术技能
 
-[Link](url) and ![Image](src)
-```
+------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*   熟练掌握Objective-C语言基础，深刻理解面向对象编程思想，具有良好的编写代码习惯，较强的代码阅读能力和语言学习能力
 
-### Jekyll Themes
+*   理解并能熟练运用iOS应用开发中常见设计模式，如：MVC、委托、广播、单例等
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cos6meteors/murphy.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*   熟练使用CocoaTouch基础框架：Foundation 、UIKit、CoreGraphics、AVFoundation、Mapkit等
 
-### Support or Contact
+* 掌握Core Data、UserDefaults、sqlite等存储技术
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 能熟练使用Socket、HTTP等网络传输技术，掌握JSON与XML解析
+
+* 熟练掌握Xcode使用
+
+* 熟悉Git的使用
+
+* 对Swift语言有一定的理解和掌握
+
+* 团队协作能力强，具有较强的组织能力
+
+
+
+# 本科经历
+
+------
+
+1. 2012-2013年度担任学院学生会新闻传媒部部长
+
+1. 2013年5月获得校循迹智能车大赛一等奖
+
+1. 多次组织并带领团队参与乡村小学支教
+
+1. 获校级优秀学生、学园级奖项、奖学金若干次
+
+
+
+# 工作经历
+
+------
+
+* 北京达内科技实习
+
+2015年1月－2015年9月 就职于北京达内科技研发部，参与多个项目iOS开发，负责部分框架搭建。
+
+* 武汉米易科技工作
+
+2015年10月至今 就职于武汉米易科技研发部，独立承担公司所以iOS项目开发、框架搭建以及产品需求确定等工作，目前以完成三个项目（两个已上线，一个处于Bate版本）。
+
+
+
+# 项目经验
+
+------
+
+* [武汉地铁](https://itunes.apple.com/us/app/id1086530506)
+
+武汉地铁官方app，支持iPhone和iPad，主要提供线路查询、新闻展示、乘车引导与基于高德地图SDK的定位、线路规划、路径查询等功能。使用了SQLite保持数据持久化，实现查找最近地铁站算法与最佳路径算法。
+
+* [江岸云文化](https://itunes.apple.com/us/app/id1142864250)
+
+武汉市江岸区文化惠民服务平台客户端，支持iPhone和iPad，主要有活动报名、活动评价、在线视频播放、在线图书阅读、在线音频播放等功能。
+
+* [洛洛校园](https://itunes.apple.com/us/app/id1227164564)
+
+私人团队项目，黄冈师范学院教务管理APP，支持iPhone，主要有选课、课程表展示、课程评价、课堂讨论等功能。
+
+* 高光谱生活 
+
+已完成Beta版本，主要利用高光谱设备进行生活中常见物品品质检测。
+
+# 自我评价
+
+乐观主义者，喜欢运动，对环境适应能力强，积极勤勉，乐于学习。
+
+
+
