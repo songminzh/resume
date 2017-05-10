@@ -10,7 +10,7 @@
 
 * EMail:murphyzh06@gmail.com
 
-* 个人博客：[Github](https://github.com/cos6meteor)、[简书](http://www.jianshu.com/u/5d6941ea3713)
+* 个人博客：[Github](https://github.com/Fusugz)、[简书](http://www.jianshu.com/u/5d6941ea3713)
 
 
 
