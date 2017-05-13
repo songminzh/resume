@@ -8,9 +8,9 @@
 
 * 手机号码：15551006656
 
-* EMail:murphyzh06@gmail.com
+* EMail:  murphyzh06@gmail.com
 
-* 个人博客：[Github](https://github.com/Fusugz)、[简书](http://www.jianshu.com/u/5d6941ea3713)
+* 关于：[个人博客](https://fusugz.github.io) ｜ [Github](https://github.com/Fusugz) ｜ [简书](http://www.jianshu.com/u/5d6941ea3713)
 
 
 
