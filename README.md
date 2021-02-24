@@ -11,7 +11,7 @@
 
 * EMail:  murphyzh06@gmail.com
 
-* [个人博客](https://fusugz.github.io) ｜ [Github](https://github.com/Fusugz) ｜ [简书](http://www.jianshu.com/u/5d6941ea3713)
+* [个人博客](https://fusugz.github.io) ｜ [Github](https://github.com/songminzh) ｜ [简书](http://www.jianshu.com/u/5d6941ea3713)
 
 
 
@@ -86,9 +86,6 @@
 已完成Beta版本，实现通过Wi-Fi直连对外部设备进行控制，H264文件解码与编码，图像拼接与转化，全景视频的播放与渲染。
 
 * 安老院护理系统
-
-正在开发。
-=======
 
 # 自我评价
 ------
